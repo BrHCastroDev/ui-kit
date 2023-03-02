@@ -1,5 +1,11 @@
 # @off-mkt/ui-kit
 
+## 0.3.3
+
+### Patch Changes
+
+- add index.js to export all components
+
 ## 0.3.2
 
 ### Patch Changes
