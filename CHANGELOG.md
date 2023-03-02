@@ -1,5 +1,11 @@
 # @off-mkt/ui-kit
 
+## 0.3.2
+
+### Patch Changes
+
+- export styles config
+
 ## 0.3.1
 
 ### Patch Changes
