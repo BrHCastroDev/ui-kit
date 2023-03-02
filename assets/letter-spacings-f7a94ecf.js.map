@@ -1,0 +1,1 @@
+{"version":3,"file":"letter-spacings-f7a94ecf.js","sources":["../../src/tokens/letter-spacings.ts"],"sourcesContent":["export const letterSpacings = {\n  normal: '0em',\n  wide: '0.025em',\n}\n"],"names":["letterSpacings"],"mappings":"AAAO,MAAMA,EAAiB,CAC5B,OAAQ,MACR,KAAM,SACR"}

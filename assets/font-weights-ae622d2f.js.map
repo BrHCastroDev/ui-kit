@@ -1,0 +1,1 @@
+{"version":3,"file":"font-weights-ae622d2f.js","sources":["../../src/tokens/font-weights.ts"],"sourcesContent":["export const fontWeights = {\n  regular: '400',\n  bold: '700',\n}\n"],"names":["fontWeights"],"mappings":"AAAO,MAAMA,EAAc,CACzB,QAAS,MACT,KAAM,KACR"}

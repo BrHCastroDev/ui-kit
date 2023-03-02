@@ -1,0 +1,1 @@
+{"version":3,"file":"fonts-104e5e96.js","sources":["../../src/tokens/fonts.ts"],"sourcesContent":["export const fonts = {\n  default: 'Helvetica, sans-serif',\n  heading: 'Druck, sans-serif',\n}\n"],"names":["fonts"],"mappings":"AAAO,MAAMA,EAAQ,CACnB,QAAS,wBACT,QAAS,mBACX"}
