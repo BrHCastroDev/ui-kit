@@ -1,7 +1,7 @@
 module.exports = {
   "stories": [
     "../src/pages/**/*.stories.mdx",
-    "../src/stories/**/*.stories.tsx"
+    "../src/**/*.stories.@(js|jsx|ts|tsx)"
   ],
   "addons": [
     "@storybook/addon-links",
@@ -15,9 +15,9 @@ module.exports = {
   "features": {
     "storyStoreV7": true
   },
-  viteFinal: (config, { configTipe }) => {
-    if (configTipe === 'PRODUCTION') {
-      config.base = '/ui-kit'
+  viteFinal: (config, {configType}) => {
+    if (configType === 'PRODUCTION') {
+      config.base = '/ui-kit/'
     }
 
     return config
